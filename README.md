@@ -1,4 +1,4 @@
-# 📘 Differential Equations – Assignment 3  
+#  Differential Equations – Assignment 3  
 ### 🧪 Predicting the Age of the Earth using Uranium Dating
 
 **Submitted by:**  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The aim of this project is to estimate the **age of the Earth** using **Uranium Dating**.  
 This scientific method relies on the **radioactive decay of uranium isotopes** (U-238 and U-235) into their **stable lead products** (Pb-206 and Pb-207).  
@@ -15,9 +15,9 @@ By calculating the ratios of these isotopes, we can estimate how much time has p
 
 ---
 
-## 🔬 Scientific Principles
+##  Scientific Principles
 
-### 📉 Radioactive Decay
+### Radioactive Decay
 
 Radioactive elements decay over time into stable isotopes following an **exponential law**:
 
