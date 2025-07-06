@@ -45,14 +45,14 @@ The half-life is the time required for **half of the radioactive substance** to 
 - `numpy`: For numerical calculations  
 - `matplotlib.pyplot`: For plotting graphs
 
-### ⚙️ Defining Constants
+###  Defining Constants
 Half-lives of uranium isotopes:
 - U-238: **4.468 billion years**
 - U-235: **0.704 billion years**
 
 Decay constants are calculated from these half-lives.
 
-### 📊 Simulating Radioactive Decay
+###  Simulating Radioactive Decay
 - Time simulated from 0 to 5 billion years
 - Decay modeled using the exponential decay formula
 
@@ -62,7 +62,7 @@ Decay constants are calculated from these half-lives.
 
 ---
 
-## 🧮 Age Estimation Using Pb/U Ratios
+##  Age Estimation Using Pb/U Ratios
 
 Example isotope ratios:
 - Pb-206 / U-238 = **0.85**
@@ -75,7 +75,7 @@ Using the rearranged decay formula:
 
 ---
 
-## 📉 Basic Error Analysis
+##  Basic Error Analysis
 
 Assuming ±5% uncertainty in the isotope ratios:
 
@@ -84,13 +84,13 @@ Assuming ±5% uncertainty in the isotope ratios:
 
 ---
 
-## 📊 Results
+##  Results
 
 The decay simulations and ratio-based calculations support the conclusion that the Earth's age is between **4.3 and 4.6 billion years**, consistent with scientific consensus.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 Using uranium dating:
 - The Earth's age is estimated to be between **4.3 and 4.6 billion years**
@@ -99,7 +99,7 @@ Using uranium dating:
 
 ---
 
-## 🔭 Future Scope
+##  Future Scope
 
 - Incorporate other radiometric dating methods (e.g., **Thorium-Lead**, **Potassium-Argon**)  
 - Analyze **real geological data** from meteorites or Earth's oldest rocks for improved precision  
