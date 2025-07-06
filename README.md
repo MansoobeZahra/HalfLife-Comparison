@@ -32,16 +32,16 @@ Where:
 
 ---
 
-### ⏳ Half-life
+###  Half-life
 
 The half-life is the time required for **half of the radioactive substance** to decay. It is related to the decay constant by:
 λ = ln(2) / half-life
 
 ---
 
-## 🧾 Code Explanation
+##  Code Explanation
 
-### 📦 Importing Libraries
+###  Importing Libraries
 - `numpy`: For numerical calculations  
 - `matplotlib.pyplot`: For plotting graphs
 
